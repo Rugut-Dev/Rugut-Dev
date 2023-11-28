@@ -140,25 +140,13 @@
 
 <sup><b>*Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</sup>
 </details>
-    <p>You can see my full metrics <a href="https://metrics.lecoq.io/insights/Carol42">here</a>.</p>
-    <p>Also, check my octoprofile <a href="https://octoprofile.vercel.app/user?id=Carol42">here</a>!</p>
-
-<h3> :star: My favorite GitHub Repos</h3>
-See <a href="https://github.com/Rugut-Dev/my-favorite-repos">here</a> a list of the awesome repositories I've starred! List updates daily.
-
-<!-- <details>
+<details>
     <summary>Profile visitors</summary>
     <p align="center">:round_pushpin: Profile visitors</p>
     <div align="center">
         <img alt="visitors counter" src="https://profile-counter.glitch.me/Rugut-Dev/count.svg">
     </div>
-</details> -->
-
-<img alt="github contribution snake animation" src="https://github.com/Rugut-Dev/Rugut-Dev/blob/output/github-contribution-grid-snake.svg">
-
-<h2>:book: Guestbook</h2>
-<p>Leave a cool message for me or just say you passed by <a href="https://github.com/Rugut-Dev/Rugut-Dev/issues/new?template=guestbook-entry.md">here</a>!</p>
-<p>Or ask me anything at <a href="https://github.com/Rugut-Dev/Rugut-Dev/discussions/new/choose">Discussions</a>!</p>
+</details>
 
 <div align="center">
     <a href="https://git.io/typing-svg">
