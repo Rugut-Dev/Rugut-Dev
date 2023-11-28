@@ -5,8 +5,6 @@
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%237E3ACE&size=30&center=true&vCenter=true&width=450&lines=I'm+Kelvin;Software+Engineer;Mobile+Dev+|+Web+Dev" alt="Software Engineer, Mobile Dev | Web Dev"></a>
 </div>
 
-<a href="https://github.com/Rugut-Dev/Rugut-Dev/actions/workflows/recent-activity.yml"><img src="https://github.com/Rugut-Dev/Rugut-Dev/actions/workflows/recent-activity.yml/badge.svg" alt="Recent Activity workflow status" ></a>
-
 <table align="right">
  <tr><td><a href="https://github.com/Rugut-Dev/Rugut-Dev/blob/main/README.md"><img src="./assets/us_flag.png" alt="US flag" width="17px"> English</a></td></tr>
 </table>
