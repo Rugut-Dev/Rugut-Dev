@@ -2,7 +2,7 @@
 <div align="center" ><img width="100%" alt="welcome to my profile!" src="https://github.com/Rugut-Dev/Rugut-Dev/blob/main/assets/header.png"></div>
 
 <div align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%237E3ACE&size=30&center=true&vCenter=true&width=450&lines=I'm+Kelvin;Software+Engineer;Mobile+Dev+|+Web+Dev" alt="Software Engineer, Mobile Dev | Web Dev"></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%237E3ACE&size=30&center=true&vCenter=true&width=450&lines=I'm+Kelvin;Software+Engineer;Mobile+App+Dev+|+Web+App+Dev" alt="Software Engineer, Mobile Dev | Web Dev"></a>
 </div>
 
 <table align="right">
