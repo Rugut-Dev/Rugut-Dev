@@ -70,10 +70,10 @@
 
 <!--<h2>:books: My personal portfolio</h2>
 <a href="https://github.com/Rugut-Dev/portfolio">
-    <img alt="link to the repository of my personal portfolio" src="https://github-readme-stats-carol42.vercel.app/api/pin/?username=Carol42&repo=portfolio&theme=midnight-purple&hide_border=true">
+    <img alt="link to the repository of my personal portfolio" src="https://github-readme-stats.vercel.app/api/pin/?username=Rugut-Dev&repo=portfolio&theme=midnight-purple&hide_border=true">
 </a>
 </br>
-<a href="https://portfolio-carol42.vercel.app/">
+<a href="https://rugut-dev-portfolio.vercel.app/">
     <img alt="link to my portfolio" src="https://img.shields.io/static/v1?label&message=open+portfolio&color=7E3ACE&style=for-the-badge" />
 </a>
 </br></br>-->
