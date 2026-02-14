@@ -29,7 +29,6 @@
 <a href="https://bit.ly/linkedin_Rugut">
     <img alt="link para o meu LinkedIn" src="https://img.shields.io/static/v1?label&message=/in/Rugut-Dev&color=0A66C2&style=for-the-badge&logo=linkedin" height="22px" />
 </a>
-</a>
 <a href="mailto:krugut36@gmail.com">
     <img alt="link para me enviar um email" src="https://img.shields.io/static/v1?label&message=krugut36@gmail.com&color=whitesmoke&style=for-the-badge&logo=gmail" height="22px" />
 </a>
@@ -150,7 +149,7 @@
 
 <div align="center">
     <a href="https://git.io/typing-svg">
-        <img alt="Obrigado pela visita!" src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&size=24&pause=1000&color=7E3ACECE&center=true&vCenter=true&width=435&lines=Obrigado+pela+visita!" >
+        <img alt="Obrigado pela visita!" src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&size=24&pause=1000&color=7E3ACE&center=true&vCenter=true&width=435&lines=Obrigado+pela+visita!" >
     </a>
 </div>
 
